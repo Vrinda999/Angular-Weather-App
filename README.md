@@ -7,7 +7,7 @@ Install the .msi Installer from [Here](https://nodejs.org/en/download).
 
 ### 2. Starting a Project.
 ```
-ng new <Name of the Project> --no-standalone
+>> ng new <Name of the Project> --no-standalone
 ```
 Note: ```--no-standalone``` Suffix is Important, as in Recent Angular Updates, the module.ts file has been made optional and the default project has Standalone Value as True.
 
