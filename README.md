@@ -4,7 +4,7 @@ A Desktop Widget which takes Location as Input from the User, and Displays Curre
 The Contents of this Repository are the Files in the "src" Folder.
 
 ### 1. Installing the Necessary Tools.
-Install the .msi Installer from [Here](https://nodejs.org/en/download).
+Install the .msi Installer from [Here](https://nodejs.org/en/download target="_blank").
 
 
 ### 2. Starting a Project.
