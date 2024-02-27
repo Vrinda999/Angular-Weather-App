@@ -15,5 +15,18 @@ Choose Stylesheet as "CSS", and Allow SSR and Routing.
 Save Static Elements to be used in a folder inside the "./src/apps/assets" Directory.
 For more Details, follow [these Steps](https://medium.com/@dgongoragamboa/how-to-create-an-angular-project-from-scratch-b4031abeb4de) to start a New Project.
 
-### 3. Running the Server
+### 3. Creating Components and Services
+To Create a New Service:
+```
+>> ng g s <Name>
+```
+Example: ```weather.service.ts``` and ```weather.servuce.spec.ts``` in "./app/Services"
+
+To Create a New Component:
+```
+>> ng generate Component <Name>
+```
+
+
+### 4. Running the Server
 ```ng serve``` or ```ng serve --o```
