@@ -32,3 +32,10 @@ To Create a New Component:
 
 ### 4. Running the Server
 ```ng serve``` or ```ng serve --o```
+
+
+Working:
+
+
+https://github.com/Vrinda999/Angular-Weather-App/assets/98251856/0bf2cad3-5a95-4fa7-8d36-144636af5d7f
+
